@@ -11,7 +11,7 @@ namespace Lista_de_Exercicios_14_cs_WinForm
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FormExercicio02());
+            Application.Run(new FormExercicio01());
         }
     }
 }
